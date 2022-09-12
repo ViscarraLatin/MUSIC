@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj": {}
+    "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj": {}
   },
   "projects": {
     "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj": {
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj": {
+    "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
-        "projectName": "QuickMusic.PrubasUnitarias",
-        "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
+        "projectUniqueName": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj",
+        "projectName": "QuickMusic.LogicaDeNegocio",
+        "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj",
         "packagesPath": "C:\\Users\\KATHYA VISCARRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.PrubasUnitarias\\obj\\",
+        "outputPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -170,22 +170,83 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj",
+        "projectName": "QuickMusic.WebApi",
+        "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj",
+        "packagesPath": "C:\\Users\\KATHYA VISCARRA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KATHYA VISCARRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj"
+              },
+              "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
-            "MSTest.TestAdapter": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.2.3, )"
+              "version": "[5.0.17, )"
             },
-            "MSTest.TestFramework": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[2.2.3, )"
+              "version": "[5.0.17, )"
             },
-            "Microsoft.NET.Test.Sdk": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[16.9.4, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[3.0.2, )"
+              "version": "[5.6.3, )"
             }
           },
           "imports": [
@@ -199,6 +260,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
