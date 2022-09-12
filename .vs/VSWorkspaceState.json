@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\QuickMusic.AccesoADatos",
+    "\\QuickMusic.EntidadesDeNegocio",
+    "\\QuickMusic.LogicaDeNegocio",
+    "\\QuickMusic.PrubasUnitarias",
+    "\\QuickMusic.WebApi"
+  ],
+  "SelectedNode": "\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj",
+  "PreviewInSolutionExplorer": false
+}

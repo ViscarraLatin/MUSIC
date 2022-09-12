@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuickMusic.AccesoADatos\QuickMusic.AccesoADatos.csproj" />
+    <ProjectReference Include="..\QuickMusic.EntidadesDeNegocio\QuickMusic.EntidadesDeNegocio.csproj" />
+  </ItemGroup>
+
+</Project>
