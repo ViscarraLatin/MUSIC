@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuickMusic.AccesoADatos
 {
-    class GeneroDAL
+public    class GeneroDAL
     {
     }
 }

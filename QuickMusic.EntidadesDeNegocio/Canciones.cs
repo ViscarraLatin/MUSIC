@@ -24,9 +24,9 @@ namespace QuickMusic.EntidadesDeNegocio
         [Display(Name = "Genero")]
         public int Id_Genero { get; set; }
 
-        [Required(ErrorMessage = "Nombre es obligatorio")]
+        [Required(ErrorMessage = "Titulo es obligatorio")]
         [StringLength(30, ErrorMessage = "Maximo 30 caracteres")]
-        public string Nombre { get; set; }
+        public string Titulo { get; set; }
 
         [NotMapped]
         public int Top_Aux { get; set; }
