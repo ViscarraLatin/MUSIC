@@ -77,5 +77,39 @@ namespace QuickMusic.AccesoADatos
             //pQuery = pQuery.Where(s => s.Titulo == pCanciones.Titulo);
             return pQuery;
         }
+        public static async Task<List<Canciones>> BuscarAsync(Canciones pCanciones)
+        {
+            var canciones = new List<Canciones>();
+            using (var bdContexto = new DBContexto())
+            {
+                var select = bdContexto.Canciones.AsQueryable();
+                select = QuerySelect(select, pCanciones);
+                canciones = await select.ToListAsync();
+            }
+            return canciones;
+        }
+        public static async Task<List<Canciones>> BuscarIncluirArtistasAsync(Canciones pCanciones)
+        {
+            var Canciones = new List<Canciones>();
+            using (var bdContexto = new DBContexto())
+            {
+                var select = bdContexto.Canciones.AsQueryable();
+                select = QuerySelect(select, pCanciones).Include(s => s.Artista).AsQueryable();
+                Canciones = await select.ToListAsync();
+            }
+            return Canciones;
+        }
+        public static async Task<List<Canciones>> BuscarIncluirGeneroAsync(Canciones pCanciones)
+        {
+            var Canciones = new List<Canciones>();
+            using (var bdContexto = new DBContexto())
+            {
+                var select = bdContexto.Canciones.AsQueryable();
+                select = QuerySelect(select, pCanciones).Include(s => s.Genero).AsQueryable();
+                Canciones = await select.ToListAsync();
+            }
+            return Canciones;
+        }
+
     }
 }
