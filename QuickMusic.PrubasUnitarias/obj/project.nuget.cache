@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JSVkP48Wyh7+WLytf3zJmRdQHF35DP5PhKi5GDtE4HL6SyfpZo8oxzBlISJ5VPCuaC+Aci5PaGXq2ATmHoxT0w==",
+  "dgSpecHash": "Coo02RK1U1IPwxi0BrgkCMKAIZYm927w85Jo2t6FCEQb3vMLcD4vSgD3NUz5bkuqaUknfsCDzMFVvQKku+MDfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
+  "projectFilePath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleja\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

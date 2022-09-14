@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
+      "projectUniqueName": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
       "projectName": "QuickMusic.PrubasUnitarias",
-      "projectPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
+      "projectPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
       "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.PrubasUnitarias\\obj\\",
+      "outputPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.PrubasUnitarias\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8584,11 +8584,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj": {
-              "projectPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj"
+            "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj": {
+              "projectPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj"
             },
-            "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
-              "projectPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj"
+            "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
+              "projectPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj"
             }
           }
         }

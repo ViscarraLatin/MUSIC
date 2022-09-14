@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {}
+    "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
+    "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj",
         "projectName": "QuickMusic.EntidadesDeNegocio",
-        "projectPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj",
+        "projectPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj",
         "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.EntidadesDeNegocio\\obj\\",
+        "outputPath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.EntidadesDeNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",

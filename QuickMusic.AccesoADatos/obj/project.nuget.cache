@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3glemkai4BSlpiM/vYWj8/sAVsB+L1MntE+5f410Vm6tlKduV+Nakks6vIMldNbFxYLuhreAvg9zmqkWffK0mA==",
+  "dgSpecHash": "rqJYecc2QQmjyNk60GW4Bkes4T45qDalchtAlelKVmgbG0nZUwvZifiNzIDYE1JJX/4jGMDpcPttz6gNBGpy0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj",
+  "projectFilePath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

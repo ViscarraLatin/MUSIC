@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zi6R4sQkVTQ95mdv04EG79niI2mhMFhHEIEadIPhlh5Y8Kffynz3tkh7+t4yTtYpfmojelqGPjyz7mssUN8DQ==",
+  "dgSpecHash": "TGX/dsHmFPkn7kAGe5ueDLOd5o7ngsgAwNv+yrwB5LSwOpV8+I79KwOJP3dNH5ArSAWuWymjlwFfOWFDi1GX8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

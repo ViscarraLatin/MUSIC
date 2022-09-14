@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sid46jDJl2Q7+p/yjInI9ojH3PA321a4OqeeREPCtHuBXmLTu7JeoMAJkY2YtPl4nfajJjMu1u/K8B057XBYew==",
+  "dgSpecHash": "lUHUgrVDHC7Kw1rqApZzo3YJ2PmF5CxTcN/8/aAivoGlsCg07Mqj9KsRASEwHZHky4vpqiiJ1DL9vgopP8P+1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj",
+  "projectFilePath": "C:\\Users\\aleja\\Desktop\\QUICK MUSIC\\MUSIC\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\aleja\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
