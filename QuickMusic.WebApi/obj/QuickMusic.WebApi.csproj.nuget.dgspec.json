@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj": {}
+    "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj": {
+    "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj",
+        "projectUniqueName": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj",
         "projectName": "QuickMusic.AccesoADatos",
-        "projectPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj",
-        "packagesPath": "C:\\Users\\royal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.AccesoADatos\\obj\\",
+        "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj",
+        "packagesPath": "C:\\Users\\KATHYA VISCARRA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.AccesoADatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\royal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KATHYA VISCARRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj"
+              "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj"
               }
             }
           }
@@ -72,24 +72,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
+    "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj",
         "projectName": "QuickMusic.EntidadesDeNegocio",
-        "projectPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj",
-        "packagesPath": "C:\\Users\\royal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.EntidadesDeNegocio\\obj\\",
+        "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj",
+        "packagesPath": "C:\\Users\\KATHYA VISCARRA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\royal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KATHYA VISCARRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -130,24 +130,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj": {
+    "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj",
         "projectName": "QuickMusic.LogicaDeNegocio",
-        "projectPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj",
-        "packagesPath": "C:\\Users\\royal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.LogicaDeNegocio\\obj\\",
+        "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj",
+        "packagesPath": "C:\\Users\\KATHYA VISCARRA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\royal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KATHYA VISCARRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -162,11 +162,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj": {
-                "projectPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj"
+              "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj": {
+                "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj"
               },
-              "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj"
+              "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj"
               }
             }
           }
@@ -195,24 +195,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj": {
+    "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj",
         "projectName": "QuickMusic.WebApi",
-        "projectPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj",
-        "packagesPath": "C:\\Users\\royal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.WebApi\\QuickMusic.WebApi.csproj",
+        "packagesPath": "C:\\Users\\KATHYA VISCARRA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\royal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KATHYA VISCARRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -227,11 +227,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj"
+              "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj"
               },
-              "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\royal\\OneDrive\\Desktop\\QuickMusicProject\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj"
+              "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.LogicaDeNegocio\\QuickMusic.LogicaDeNegocio.csproj"
               }
             }
           }
@@ -263,7 +263,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

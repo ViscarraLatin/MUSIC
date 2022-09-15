@@ -46,7 +46,7 @@ namespace QuickMusic.AccesoADatos
             }
             return result;
         }
-        public static async Task<int> ObtenerPorIdAsync(Canciones pCanciones)
+        public static async Task<Canciones> ObtenerPorIdAsync(Canciones pCanciones)
         {
             int result = 0;
             using (var bdContexto = new DBContexto())
@@ -99,7 +99,7 @@ namespace QuickMusic.AccesoADatos
             }
             return Canciones;
         }
-        public static async Task<List<Canciones>> BuscarIncluirGeneroAsync(Canciones pCanciones)
+        public static async Task<List<Canciones>> BuscarIncluirGenerosAsync(Canciones pCanciones)
         {
             var Canciones = new List<Canciones>();
             using (var bdContexto = new DBContexto())
