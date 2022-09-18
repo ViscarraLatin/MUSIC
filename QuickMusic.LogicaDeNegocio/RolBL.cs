@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using QuickMusic.AccesoADatos;
 using QuickMusic.EntidadesDeNegocio;
 
+using QuickMusic.AccesoADatos;
+using QuickMusic.EntidadesDeNegocio;
+
 namespace QuickMusic.LogicaDeNegocio
 {
     public class RolBL
