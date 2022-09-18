@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\QuickMusic.AccesoADatos"
   ],
-  "SelectedNode": "\\QuickMusic.sln",
+  "SelectedNode": "\\QuickMusic.AccesoADatos\\RolDAL.cs",
   "PreviewInSolutionExplorer": false
 }

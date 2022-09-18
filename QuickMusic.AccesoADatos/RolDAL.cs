@@ -10,13 +10,13 @@ namespace QuickMusic.AccesoADatos
 {
    public class RolDAL
     {
-        public static async Task <int>CrearAsync(Rol pRol)
+        public static async Task<int> CrearAsync(Rol pRol)
         {
             int result = 0;
-            using (var DBContexto = new DBContexto())
+            using (var bdContexto = new DBContexto())
             {
-                DBContexto.Add(pRol);
-                result = await DBContexto.SaveChangesAsync();
+                bdContexto.Add(pRol);
+                result = await bdContexto.SaveChangesAsync();
             }
             return result;
         }

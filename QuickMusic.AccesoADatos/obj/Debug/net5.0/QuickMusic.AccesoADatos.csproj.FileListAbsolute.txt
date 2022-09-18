@@ -1,0 +1,15 @@
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.AccesoADatos.deps.json
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.AccesoADatos.dll
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\bin\Debug\net5.0\ref\QuickMusic.AccesoADatos.dll
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.AccesoADatos.pdb
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.EntidadesDeNegocio.dll
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.EntidadesDeNegocio.pdb
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.AssemblyInfo.cs
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.csproj.CopyComplete
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.dll
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\obj\Debug\net5.0\ref\QuickMusic.AccesoADatos.dll
+C:\Users\royal\OneDrive\Desktop\QuickMusicProject\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.pdb
