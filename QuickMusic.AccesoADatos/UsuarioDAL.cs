@@ -58,7 +58,7 @@ namespace QuickMusic.AccesoADatos
                 if (existeLogin == false)
                 {
                     var usuario = await dbContexto.Usuario.FirstOrDefaultAsync(s => s.Id == pUsuario.Id);
-                    usuario.IdRol = pUsuario.IdRol;
+                    usuario.Id_Rol = pUsuario.Id_Rol;
                     usuario.Nombre = pUsuario.Nombre;
                     usuario.Apellido = pUsuario.Apellido;
                     usuario.Login = pUsuario.Login;
@@ -104,8 +104,8 @@ namespace QuickMusic.AccesoADatos
         {
             if (pUsuario.Id > 0)
                 pQuery = pQuery.Where(s => s.Id == pUsuario.Id);
-            if (pUsuario.IdRol > 0)
-                pQuery = pQuery.Where(s => s.IdRol == pUsuario.IdRol);
+            if (pUsuario.Id_Rol > 0)
+                pQuery = pQuery.Where(s => s.Id_Rol == pUsuario.Id_Rol);
             if (!string.IsNullOrWhiteSpace(pUsuario.Nombre))
                 pQuery = pQuery.Where(s => s.Nombre.Contains(pUsuario.Nombre));
             if (!string.IsNullOrWhiteSpace(pUsuario.Apellido))

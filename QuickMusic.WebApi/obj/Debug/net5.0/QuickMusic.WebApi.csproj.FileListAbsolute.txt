@@ -1,0 +1,6 @@
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.WebApi\obj\Debug\net5.0\QuickMusic.WebApi.csproj.AssemblyReference.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.WebApi\obj\Debug\net5.0\QuickMusic.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.WebApi\obj\Debug\net5.0\QuickMusic.WebApi.AssemblyInfoInputs.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.WebApi\obj\Debug\net5.0\QuickMusic.WebApi.AssemblyInfo.cs
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.WebApi\obj\Debug\net5.0\QuickMusic.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.WebApi\obj\Debug\net5.0\QuickMusic.WebApi.MvcApplicationPartsAssemblyInfo.cache

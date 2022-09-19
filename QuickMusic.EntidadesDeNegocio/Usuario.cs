@@ -16,7 +16,7 @@ namespace QuickMusic.EntidadesDeNegocio
         [ForeignKey("Rol")]
         [Required(ErrorMessage = "Rol es obligatorio")]
         [Display(Name = "Rol")]
-        public int IdRol { get; set; }
+        public int Id_Rol { get; set; }
 
         [Required(ErrorMessage = "Nombre es obligatorio")]
         [StringLength(30, ErrorMessage = "Maximo 30 caracteres")]

@@ -48,12 +48,12 @@ namespace QuickMusic.AccesoADatos
         }
         public static async Task<Canciones> ObtenerPorIdAsync(Canciones pCanciones)
         {
-            int result = 0;
+            var canciones = new Canciones();
             using (var bdContexto = new DBContexto())
             {
-                var canciones = await bdContexto.Canciones.FirstOrDefaultAsync(s => s.Id == pCanciones.Id);
+                canciones = await bdContexto.Canciones.FirstOrDefaultAsync(s => s.Id == pCanciones.Id);
             }
-            return result;
+            return canciones;
         }
         public static async Task<List<Canciones>> ObtenerTodosAsync()
         {

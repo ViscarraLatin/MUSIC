@@ -1,0 +1,5 @@
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\QuickMusic.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\QuickMusic.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\QuickMusic.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\QuickMusic.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\QuickMusic.LogicaDeNegocio.csproj.CoreCompileInputs.cache
