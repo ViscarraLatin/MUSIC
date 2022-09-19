@@ -11,7 +11,7 @@ namespace QuickMusic.AccesoADatos.Tests
     [TestClass()]
     public class UsuarioDALTests
     {
-        private static Usuario usuarioInicial = new Usuario { Id = 1, Id_Rol = 1, Login = "JuanUser", Password = "12345" };
+        private static Usuario usuarioInicial = new Usuario { Id = 6, Id_Rol = 1, Login = "JuanUser", Password = "12345" };
 
         [TestMethod()]
         public async Task T1CrearAsyncTest()
@@ -67,9 +67,9 @@ namespace QuickMusic.AccesoADatos.Tests
         {
             var usuario = new Usuario();
             usuario.Id_Rol = usuarioInicial.Id_Rol;
-            usuario.Nombre = "A";
-            usuario.Apellido = "a";
-            usuario.Login = "A";
+            usuario.Nombre = "j";
+            usuario.Apellido = "o";
+            usuario.Login = "a";
             usuario.Estatus = (byte)Estatus_Usuario.ACTIVO;
             usuario.Top_Aux = 10;
             var resultUsuarios = await UsuarioDAL.BuscarAsync(usuario);
@@ -81,9 +81,9 @@ namespace QuickMusic.AccesoADatos.Tests
         {
             var usuario = new Usuario();
             usuario.Id_Rol = usuarioInicial.Id_Rol;
-            usuario.Nombre = "A";
-            usuario.Apellido = "a";
-            usuario.Login = "A";
+            usuario.Nombre = "j";
+            usuario.Apellido = "o";
+            usuario.Login = "a";
             usuario.Estatus = (byte)Estatus_Usuario.ACTIVO;
             usuario.Top_Aux = 10;
             var resultUsuarios = await UsuarioDAL.BuscarIncluirRolesAsync(usuario);

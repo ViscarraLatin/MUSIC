@@ -22,3 +22,15 @@ C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.Entidad
 C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.EntidadesDeNegocio\obj\Debug\net5.0\QuickMusic.EntidadesDeNegocio.dll
 C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.EntidadesDeNegocio\obj\Debug\net5.0\ref\QuickMusic.EntidadesDeNegocio.dll
 C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.EntidadesDeNegocio\obj\Debug\net5.0\QuickMusic.EntidadesDeNegocio.pdb
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\bin\Debug\net5.0\QuickMusic.EntidadesDeNegocio.deps.json
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\bin\Debug\net5.0\QuickMusic.EntidadesDeNegocio.dll
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\bin\Debug\net5.0\ref\QuickMusic.EntidadesDeNegocio.dll
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\bin\Debug\net5.0\QuickMusic.EntidadesDeNegocio.pdb
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\obj\Debug\net5.0\QuickMusic.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\obj\Debug\net5.0\QuickMusic.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\obj\Debug\net5.0\QuickMusic.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\obj\Debug\net5.0\QuickMusic.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\obj\Debug\net5.0\QuickMusic.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\obj\Debug\net5.0\QuickMusic.EntidadesDeNegocio.dll
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\obj\Debug\net5.0\ref\QuickMusic.EntidadesDeNegocio.dll
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.EntidadesDeNegocio\obj\Debug\net5.0\QuickMusic.EntidadesDeNegocio.pdb

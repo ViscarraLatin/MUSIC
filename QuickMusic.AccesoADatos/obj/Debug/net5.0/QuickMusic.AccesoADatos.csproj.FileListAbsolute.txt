@@ -28,3 +28,18 @@ C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.AccesoA
 C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.EntidadesDeNegocio.dll
 C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.EntidadesDeNegocio.pdb
 C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.csproj.CopyComplete
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.AccesoADatos.deps.json
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.AccesoADatos.dll
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\bin\Debug\net5.0\ref\QuickMusic.AccesoADatos.dll
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.AccesoADatos.pdb
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.EntidadesDeNegocio.dll
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\bin\Debug\net5.0\QuickMusic.EntidadesDeNegocio.pdb
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.AssemblyInfo.cs
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.csproj.CopyComplete
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.dll
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\obj\Debug\net5.0\ref\QuickMusic.AccesoADatos.dll
+C:\Users\Evelyn Cortez\Desktop\Quick Music\MUSIC\QuickMusic.AccesoADatos\obj\Debug\net5.0\QuickMusic.AccesoADatos.pdb

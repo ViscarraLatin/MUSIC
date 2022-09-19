@@ -34,15 +34,15 @@ namespace QuickMusic.AccesoADatos
         public static async Task<int> CrearAsync(Usuario pUsuario)
         {
             int result = 0;
-            using (var dbContexto = new DBContexto())
+            using (var bdContexto = new DBContexto())
             {
-                bool existeLogin = await ExisteLogin(pUsuario, dbContexto);
+                bool existeLogin = await ExisteLogin(pUsuario, bdContexto);
                 if (existeLogin == false)
                 {
                     pUsuario.FechaRegistro = DateTime.Now;
                     EncriptarMD5(pUsuario);
-                    dbContexto.Add(pUsuario);
-                    result = await dbContexto.SaveChangesAsync();
+                    bdContexto.Add(pUsuario);
+                    result = await bdContexto.SaveChangesAsync();
                 }
                 else
                     throw new Exception("Login ya existe");
@@ -127,14 +127,14 @@ namespace QuickMusic.AccesoADatos
         }
         public static async Task<List<Usuario>> BuscarAsync(Usuario pUsuario)
         {
-            var Usuarios = new List<Usuario>();
+            var usuarios = new List<Usuario>();
             using (var bdContexto = new DBContexto())
             {
                 var select = bdContexto.Usuario.AsQueryable();
                 select = QuerySelect(select, pUsuario);
-                Usuarios = await select.ToListAsync();
+                usuarios = await select.ToListAsync();
             }
-            return Usuarios;
+            return usuarios;
         }
         #endregion
         public static async Task<List<Usuario>> BuscarIncluirRolesAsync(Usuario pUsuario)

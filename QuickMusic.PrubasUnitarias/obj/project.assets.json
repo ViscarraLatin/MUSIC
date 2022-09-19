@@ -8558,25 +8558,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KATHYA VISCARRA\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Evelyn Cortez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
+      "projectUniqueName": "C:\\Users\\Evelyn Cortez\\Desktop\\Quick Music\\MUSIC\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
       "projectName": "QuickMusic.PrubasUnitarias",
-      "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
-      "packagesPath": "C:\\Users\\KATHYA VISCARRA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.PrubasUnitarias\\obj\\",
+      "projectPath": "C:\\Users\\Evelyn Cortez\\Desktop\\Quick Music\\MUSIC\\QuickMusic.PrubasUnitarias\\QuickMusic.PrubasUnitarias.csproj",
+      "packagesPath": "C:\\Users\\Evelyn Cortez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Evelyn Cortez\\Desktop\\Quick Music\\MUSIC\\QuickMusic.PrubasUnitarias\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\KATHYA VISCARRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Evelyn Cortez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -8589,11 +8584,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj": {
-              "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj"
+            "C:\\Users\\Evelyn Cortez\\Desktop\\Quick Music\\MUSIC\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj": {
+              "projectPath": "C:\\Users\\Evelyn Cortez\\Desktop\\Quick Music\\MUSIC\\QuickMusic.AccesoADatos\\QuickMusic.AccesoADatos.csproj"
             },
-            "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
-              "projectPath": "C:\\Users\\KATHYA VISCARRA\\OneDrive\\Escritorio\\quick\\QuickMusic\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj"
+            "C:\\Users\\Evelyn Cortez\\Desktop\\Quick Music\\MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj": {
+              "projectPath": "C:\\Users\\Evelyn Cortez\\Desktop\\Quick Music\\MUSIC\\QuickMusic.EntidadesDeNegocio\\QuickMusic.EntidadesDeNegocio.csproj"
             }
           }
         }
@@ -8640,7 +8635,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
