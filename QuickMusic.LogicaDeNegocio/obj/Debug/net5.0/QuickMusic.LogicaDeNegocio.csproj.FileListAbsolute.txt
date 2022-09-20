@@ -3,3 +3,15 @@ C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaD
 C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\QuickMusic.LogicaDeNegocio.AssemblyInfoInputs.cache
 C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\QuickMusic.LogicaDeNegocio.AssemblyInfo.cs
 C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\QuickMusic.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\bin\Debug\net5.0\QuickMusic.LogicaDeNegocio.deps.json
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\bin\Debug\net5.0\QuickMusic.LogicaDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\bin\Debug\net5.0\ref\QuickMusic.LogicaDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\bin\Debug\net5.0\QuickMusic.LogicaDeNegocio.pdb
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\bin\Debug\net5.0\QuickMusic.AccesoADatos.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\bin\Debug\net5.0\QuickMusic.EntidadesDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\bin\Debug\net5.0\QuickMusic.AccesoADatos.pdb
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\bin\Debug\net5.0\QuickMusic.EntidadesDeNegocio.pdb
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\QuickMusic.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\QuickMusic.LogicaDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\ref\QuickMusic.LogicaDeNegocio.dll
+C:\Users\KATHYA VISCARRA\OneDrive\Escritorio\quick\QuickMusic\QuickMusic.LogicaDeNegocio\obj\Debug\net5.0\QuickMusic.LogicaDeNegocio.pdb

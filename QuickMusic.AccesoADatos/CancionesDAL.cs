@@ -74,7 +74,7 @@ namespace QuickMusic.AccesoADatos
             if (pCanciones.Id_Genero > 0)
                 pQuery = pQuery.Where(s => s.Id == pCanciones.Id_Genero);
            if (!String.IsNullOrWhiteSpace(pCanciones.Titulo))
-            pQuery = pQuery.Where(s => s.Titulo == pCanciones.Titulo);
+            pQuery = pQuery.Where(s => s.Titulo.Contains(pCanciones.Titulo));
             return pQuery;
         }
         public static async Task<List<Canciones>> BuscarAsync(Canciones pCanciones)

@@ -18,7 +18,7 @@ namespace QuickMusic.AccesoADatos
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=LAPTOP-4TJGDQBV; Initial Catalog = QuickMusic; Integrated Security=True");
+            optionsBuilder.UseSqlServer(@"Data Source=LAPTOP-GA9S0BCP\SQLEXPRESS; Initial Catalog = QuickMusic; Integrated Security=True");
         }
 
     }

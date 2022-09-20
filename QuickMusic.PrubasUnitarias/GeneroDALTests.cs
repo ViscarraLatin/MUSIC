@@ -12,7 +12,7 @@ namespace QuickMusic.AccesoADatos.Tests
     [TestClass()]
     public class GeneroDALTests
     {
-        private static Genero generoInicial = new Genero { Id = 1 };
+        private static Genero generoInicial = new Genero { Id = 2 };
         [TestMethod()]
         public async Task T1CrearAsyncTest()
         {

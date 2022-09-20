@@ -14,8 +14,8 @@ namespace QuickMusic.AccesoADatos.Tests
     {
         private static Canciones cancionInicial = new Canciones
         {
-            Id = 1,
-            Id_Artista = 5,
+            Id = 4,
+            Id_Artista = 2,
             Id_Genero = 4,
         };
 
@@ -38,7 +38,7 @@ namespace QuickMusic.AccesoADatos.Tests
             canciones.Id = cancionInicial.Id;
             canciones.Id_Artista = cancionInicial.Id_Artista;
             canciones.Id_Genero = cancionInicial.Id_Genero;
-            canciones.Titulo = "Paulo";
+            canciones.Titulo = "Lose yourself";
             int result = await CancionesDAL.ModificarAsync(canciones);
             Assert.AreNotEqual(0, result);
            
@@ -57,7 +57,7 @@ namespace QuickMusic.AccesoADatos.Tests
         public async Task T4ObtenerTodosAsyncTest()
         {
             var reultCanciones = await CancionesDAL.ObtenerTodosAsync();
-            Assert.AreNotEqual(0, reultCanciones.Count);
+            Assert.AreEqual(0, reultCanciones.Count);
         }
 
         [TestMethod()]
@@ -67,7 +67,7 @@ namespace QuickMusic.AccesoADatos.Tests
             canciones.Id_Artista = cancionInicial.Id_Artista;
             canciones.Titulo = "i";
             var resultCanciones = await CancionesDAL.BuscarAsync(canciones);
-            Assert.AreNotEqual(0, resultCanciones.Count);
+            Assert.AreEqual(0, resultCanciones.Count);
         }
 
         [TestMethod()]
@@ -75,7 +75,7 @@ namespace QuickMusic.AccesoADatos.Tests
         {
             var canciones = new Canciones();
             canciones.Id_Artista = cancionInicial.Id_Artista;
-            canciones.Titulo = "i";
+            canciones.Titulo = "Lose";
             var resultCanciones = await CancionesDAL.BuscarIncluirArtistasAsync(canciones);
             Assert.AreNotEqual(0, resultCanciones.Count);
             var ultimoCanciones = resultCanciones.FirstOrDefault();
@@ -87,7 +87,7 @@ namespace QuickMusic.AccesoADatos.Tests
         {
             var canciones = new Canciones();
             canciones.Id_Genero = cancionInicial.Id_Genero;
-            canciones.Titulo = "h";
+            canciones.Titulo = "Lose";
             var resultCanciones = await CancionesDAL.BuscarIncluirGenerosAsync(canciones);
             Assert.AreNotEqual(0, resultCanciones.Count);
             var ultimoCanciones = resultCanciones.FirstOrDefault();

@@ -11,7 +11,7 @@ namespace QuickMusic.AccesoADatos.Tests
     [TestClass()]
     public class UsuarioDALTests
     {
-        private static Usuario usuarioInicial = new Usuario { Id = 6, Id_Rol = 1, Login = "JuanUser", Password = "12345" };
+        private static Usuario usuarioInicial = new Usuario { Id = 7, Id_Rol = 1, Login = "JuanUser1", Password = "12345" };
 
         [TestMethod()]
         public async Task T1CrearAsyncTest()
@@ -20,7 +20,7 @@ namespace QuickMusic.AccesoADatos.Tests
             usuario.Id_Rol = usuarioInicial.Id_Rol;
             usuario.Nombre = "juan";
             usuario.Apellido = "lopez";
-            usuario.Login = "juanUser";
+            usuario.Login = "juanUser1";
             string password = "12345";
             usuario.Password = password;
             usuario.Estatus = (byte)Estatus_Usuario.INACTIVO;
@@ -39,7 +39,7 @@ namespace QuickMusic.AccesoADatos.Tests
             usuario.Id_Rol = usuarioInicial.Id_Rol;
             usuario.Nombre = "Juan";
             usuario.Apellido = "Lopez";
-            usuario.Login = "JuanUser01";
+            usuario.Login = "JuanUser001";
             usuario.Estatus = (byte)Estatus_Usuario.ACTIVO;
             int result = await UsuarioDAL.ModificarAsync(usuario);
             Assert.AreNotEqual(0, result);
