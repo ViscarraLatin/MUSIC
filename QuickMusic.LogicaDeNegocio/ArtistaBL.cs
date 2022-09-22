@@ -15,7 +15,7 @@ namespace QuickMusic.LogicaDeNegocio
             return await ArtistaDAL.CrearAsync(pArtista);
 
         }
-        public async Task<int> ModificararAsync(Artista pArtista)
+        public async Task<int> ModificarAsync(Artista pArtista)
         {
             return await ArtistaDAL.ModificarAsync(pArtista);
 
